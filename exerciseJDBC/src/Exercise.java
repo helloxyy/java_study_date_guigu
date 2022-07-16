@@ -104,6 +104,7 @@ public class Exercise {
             throwables.printStackTrace();
         }finally {
             JDBCUtils.closeConnection(conn, pst, rs);
+            System.out.println("closed!");
         }
 
         return stu;
