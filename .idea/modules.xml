@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/date22_0426/date22_0426.iml" filepath="$PROJECT_DIR$/date22_0426/date22_0426.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date22_0505/date22_0505/date22_0505.iml" filepath="$PROJECT_DIR$/date22_0505/date22_0505/date22_0505.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/exercise.iml" filepath="$PROJECT_DIR$/exercise/exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciseJDBC/exerciseJDBC.iml" filepath="$PROJECT_DIR$/exerciseJDBC/exerciseJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_study_426.iml" filepath="$PROJECT_DIR$/java_study_426.iml" />
+    </modules>
+  </component>
+</project>
